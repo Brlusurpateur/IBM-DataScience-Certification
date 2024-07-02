@@ -1,3 +1,3 @@
 IBM-DataScience-Certification
 
-This repository content all reponse for the Coursera IBM Data Science Professional Certificate.
+Ce repository contient toutes les réponses pour la certification Coursera IBM Data Science Professional Certificate.
